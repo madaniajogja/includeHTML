@@ -4,7 +4,7 @@ var newImg = new Image();
 
 
 
-newImg.src = 'https://www.w3schools.com/graphics/smiley.gif';
+newImg.src = 'https://lh3.googleusercontent.com/sL49KPZhvCAP2lq_5j0tykl67KrvhQlePrG_KQ0Ho9uJD_vcvxHolMP6wCYN0VX5_G8LT9n6m3BdKlKWAQ=w77-h110';
 
 function startGame() {
     myGamePiece = new component(30, 30, 'https://lh3.googleusercontent.com/sL49KPZhvCAP2lq_5j0tykl67KrvhQlePrG_KQ0Ho9uJD_vcvxHolMP6wCYN0VX5_G8LT9n6m3BdKlKWAQ=w77-h110', 10, 120, "image");
